@@ -50,9 +50,9 @@ Below is a comparative breakdown of commercial parental control platforms, sorte
 
 ## 💻 Open-Source GitHub Projects 🔓
 
-Open-source parental controls offer privacy-first 🔒, local-first 🏡 alternatives to commercial monitoring. Projects below are sorted by **GitHub Star Count** ⭐️ (descending):
+Open-source parental controls offer privacy-first 🔒, local-first 🏡 alternatives to commercial monitoring. Projects below are sorted by **GitHub Stars_Count** ⭐️ (descending):
 
-| Repository 📦 | Stars ⭐️ | Category 🏷️ | Description & Features 📝 | License 📜 |
+| Repository 📦 | GitHub_Stars ⭐️ | Category 🏷️ | Description & Features 📝 | License 📜 |
 | :--- | :---: | :--- | :--- | :--- |
 | **[pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)** | [![pi-hole Stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=social&color=white)](https://github.com/pi-hole/pi-hole/stargazers) | Network DNS 📡 | Industry-standard network-wide ad and tracker blocker 🛑. Configurable with custom blocklists for parental filtering. | EUPL-1.2 |
 | **[AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)** | [![AdGuardHome Stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=social&color=white)](https://github.com/AdguardTeam/AdGuardHome/stargazers) | Network DNS 📡 | Network-wide DNS filter with **built-in parental control toggles** 👨‍👩‍👧, SafeSearch enforcement, and adult site blocking. | GPL-3.0 |
