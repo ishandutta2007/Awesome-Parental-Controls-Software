@@ -45,6 +45,7 @@ Below is a comparative breakdown of commercial parental control platforms, sorte
 | **[OurPact](https://ourpact.com/)** | **$69.99/yr** (Premium) / **$99.99/yr** (Premium+) | **Free Forever** (1 device, 5 manual blocks/mo; 14-day Premium trial) | Mobile app blocking 📲, automated schedule rules 📅, screenshot monitoring 📸, and family locator 📍. | **$2.8M Funding** / **~$4.5M ARR** (Eturi Corp.) 🏢 |
 | **[Mobicip](https://www.mobicip.com/)** | **$35.88/yr** (Lite - 5 dev) / **$59.88/yr** (Standard - 10 dev) | **7-Day Free Trial** (Full access; basic tier available after trial) | Multi-device web filtering 🌐, app limits 🛑, social media monitoring 📱, and collaborative family location sharing. | **Privately Held** (Est. $2M–$4M ARR) 🏢 |
 | **[Circle Home Plus](https://meetcircle.com/)** | **$99.99/yr** (App only) / **$129.00** (Hardware + 3-mo sub) | **14-Day Free Trial** (Basic plan provides history & pause after trial) | Network-level hardware router filter 📡 combined with mobile companion app for total home coverage 🏠. | **$33.2M Total Funding** (Circle Media Labs Inc.) 🏢 |
+| **[Ripple](https://ripplefocus.github.io/en/)** | **Free** ($0.00/yr) | **Free Forever** (All features included) | Android app blocking with uninstall and force-stop protection set up on the child's phone without a PC 🔒, a monotonic clock so changing the system time does not unlock apps ⏱️, a parent-held emergency unlock code 🔑, and blocking of WeChat Channels/Moments or YouTube Shorts while chats keep working 💬. | Independent developer 🏢 |
 
 ---
 
